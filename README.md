@@ -1,6 +1,8 @@
-This is a classification problem, to predict if a passenger survived the Titanic or not
+This is a classification problem, to predict if a passenger survived the Titanic or not, given his age, boarding point, fare paid, class in which he was travelling along with sex information.
 
+---------------------------------------------------
 Few points worth mentioning regarding directory structure:
+---------------------------------------------------
 
 --csv is placed under data/raw/
 
@@ -14,7 +16,9 @@ Few points worth mentioning regarding directory structure:
   ++ Abstracts the messy paths in the main notebook to here, so that cleaner view can be provided
 --scripts folder is a placeholder for future purposes
 
---How to run this?
+---------------------------------------------------
+How to run this?
+---------------------------------------------------
 
   ++ start Anaconda prompt and go to this folder's parent locationr and type jupyter notebook
   ++ notebook starts with the parent folder as the base location and you can navigate to different projects from there
