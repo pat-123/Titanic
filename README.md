@@ -1,6 +1,7 @@
 This is a classification problem, to predict if a passenger survived the Titanic or not
 
 Few points worth mentioning regarding directory structure:
+
 --csv is placed under data/raw/
 
 --Processed csv is places under data/processed after computation
