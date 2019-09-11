@@ -15,6 +15,7 @@ Few points worth mentioning regarding directory structure:
 --scripts folder is a placeholder for future purposes
 
 --How to run this?
+
   ++ start Anaconda prompt and go to this folder's parent locationr and type jupyter notebook
   ++ notebook starts with the parent folder as the base location and you can navigate to different projects from there
 
