@@ -10,6 +10,9 @@ import os
 import sys
 from sklearn.datasets import load_iris
 
+import warnings
+warnings.filterwarnings("ignore")
+
 import pandas as pd
 import seaborn  as sb
 import matplotlib.pyplot as plt
@@ -33,6 +36,7 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import RandomForestRegressor
 
 import sklearn
 import plotly.graph_objs as go

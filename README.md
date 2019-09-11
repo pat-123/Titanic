@@ -23,4 +23,6 @@ New additions
 -------------------------------------------------- 
 RESULT
 --------------------------------------------------
-I have used RandomForest and SVM and SVM performs better with average model score of 82 % run over 5 KFolds
+I have used RandomForest, SVM, NaiveBayes and Randomforest performs best with an average of 0.82 with 5 folds, with a max of 0.86
+
+
